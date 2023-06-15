@@ -1,15 +1,14 @@
 /* File: 4-puts.c */
-
 #include <stdio.h>
-
 /**
- * main- Write a C program that prints a line using puts
- * Return : 0 (success)
+ * main - Prints "Programming is like building a multilingual
+ *                puzzle, followed by a new line.
+ * Description: use puts.
+ * Return : 0 (success).
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0); 
 }
 
