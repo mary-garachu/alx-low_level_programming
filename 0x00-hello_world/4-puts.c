@@ -1,4 +1,4 @@
-?* File: 4-puts.c */
+/* File: 4-puts.c */
 
 #include <stdio.h>
 
