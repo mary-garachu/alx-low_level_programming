@@ -1,18 +1,15 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
- * main-prints the alphabet, in lowercase, followed by a new line.
- * description: _putchar can only be used twice in my code
- * Author: Mary Garachu
- * Returns: nothing
+ * print_alphabet - prints the english alphabet from a-z.
+ * Return: Nothing.
  */
 void print_alphabet(void)
 {
-	char c;
+	char l;
 
-	for (c = 'a'; c <= 'z'; c++)
+	for (l = 'a'; l <= 'z'; l++)
 	{
-		_putchar(c);
+		_putchar(l);
 	}
 	_putchar('\n');
 }
