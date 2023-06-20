@@ -4,6 +4,7 @@
  * main-prints the alphabet, in lowercase, followed by a new line.
  * description: _putchar can only be used twice in my code
  * Author: Mary Garachu
+ * Returns: nothing
  */
 void print_alphabet(void)
 {
