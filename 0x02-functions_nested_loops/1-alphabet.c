@@ -4,7 +4,7 @@
  * main-prints the alphabet, in lowercase, followed by a new line.
  * Author: Mary Garachu
  */
-int main(void)
+void print_alphabet(void);
 {
 	char l;
 
