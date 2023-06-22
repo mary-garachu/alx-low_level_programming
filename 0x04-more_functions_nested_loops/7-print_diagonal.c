@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print_line - draws a diagonal line on the terminal.
+ * print_diagonal -  checks for checks for a digit (0 through 9).
  * @n: n -  Variable
+ *
  * Return: Always 0.
  */
-void print_line(int n)
+void print_diagonal(int n)
 {
-	int x;
-	int y;
+	int x, y;
 
 	if (n > 0)
 	{
