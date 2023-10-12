@@ -1,1 +1,1 @@
-updated readme on doubly linked lists
+updated readme on doubly linked list
